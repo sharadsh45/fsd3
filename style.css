@@ -14,6 +14,7 @@ body {
 
 /* Hero Section */
 .hero {
+  
   background: url('images/hero-bg.jpg') center/cover no-repeat;
   padding: 100px 20px;
   text-align: center;
@@ -159,4 +160,5 @@ footer {
   .hero p {
     font-size: 1rem;
   }
+
 }
